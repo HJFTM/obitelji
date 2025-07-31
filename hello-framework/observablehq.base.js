@@ -47,6 +47,7 @@ export function generirajObiteljiPoMjestu(data, rod = "Bosna") {
       .map(o => ({
         name: o.OBITELJ,
         path: `/pages/ENTITET/obitelj/${encodeURIComponent(o.OBITELJ)}`
+        pathEncoded2: `/pages/ENTITET/obitelj/${encodeURIComponent(encodeURIComponent(o.OBITELJ))}`
       }));
   }
 
