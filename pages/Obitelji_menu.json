@@ -2516,15 +2516,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "------",
-      "pages": [
-        {
-          "name": "Sadržaj",
-          "path": "/pages/KONCEPT/Navigacija"
-        }
-      ]
     }
   ],
   "entryPoints": [
@@ -2641,7 +2632,6 @@
     "/pages/ENTITET/obitelj/1891.%20Marija",
     "/pages/ENTITET/obitelj/1893.%20Marija",
     "/pages/ENTITET/obitelj/1902.%20Marija",
-    "/pages/KONCEPT/Navigacija",
     "/pages/ENTITET/mjesto/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_migracije/Popovi%C4%87i",
     "/pages/ENTITET/mjesto_stablo/Popovi%C4%87i",
